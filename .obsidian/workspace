@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "2d34a1531e9bb901",
+    "type": "split",
+    "children": [
+      {
+        "id": "88e90ea1d5dca9a5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sk-RL/Objective/Objective.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "33ae6180060ba36e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sk-RL/Basic terms/Input u.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b1507d1d0583833",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f46bfa8833f2ed9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80124dbb68d05a4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "111b313a20318300",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#state_transition_law",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "0664180242dd0505",
+    "type": "split",
+    "children": [
+      {
+        "id": "d66ebbdcbe4e21d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7f1db4aaa4857e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sk-RL/Basic terms/Input u.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "33ae6180060ba36e",
+  "lastOpenFiles": [
+    "Sk-RL/Basic terms/Input u.md",
+    "Sk-RL/Objective/Instantaneous objective.md",
+    "Sk-RL/Objective/Objective.md",
+    "Sk-RL/Objective/Goal.md",
+    "Sk-RL/Specific terms/Diffusion function.md",
+    "Sk-RL/Specific terms/Drift function.md",
+    "Sk-RL/Specific terms/Transition PDF.md",
+    "Sk-RL/Objective/Horizon.md",
+    "Instantaneous objective.md",
+    "Objective.md"
+  ]
+}

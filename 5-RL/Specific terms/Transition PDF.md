@@ -1,0 +1,1 @@
+> **Transition PDF $P_X$**  - probability density function, from which next [[State x]] is drawn in propabalistic [[System]]s, e.g. [[MDP system]] 

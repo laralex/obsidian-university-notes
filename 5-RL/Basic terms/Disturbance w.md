@@ -1,0 +1,1 @@
+> **Disturbance $w$** - Input, uncontrolled by an [[Controller|Agent]] of interest
